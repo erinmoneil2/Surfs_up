@@ -7,9 +7,11 @@ The purpose of this analysis is to provide W. Avy with data for both June and De
 ## Results
 
 June Temperatures
+
 ![Screen Shot 2021-12-20 at 11 30 27 AM](https://user-images.githubusercontent.com/92831268/146986394-b6b6b6ed-e496-446e-9d76-8349a776dd69.png)
 
 December Temperaures
+
 ![Screen Shot 2021-12-20 at 11 30 35 AM](https://user-images.githubusercontent.com/92831268/146986414-364e09bd-dc0a-46e2-892a-6d7ae5799748.png)
 
 Findings: 
